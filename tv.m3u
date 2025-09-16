@@ -3,6 +3,7 @@
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="ATV" tvg-group="Ulusal" tvg-logo="../turk-tv1/image/atv.png",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+http://origi-jw-5.ravenclaw-house.com:80/TR-ATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KanalD" tvg-name="Kanal D" tvg-group="Ulusal" tvg-logo="../turk-tv1/image/kanald.png",Kanal D 
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" tvg-group="Ulusal" tvg-logo="../turk-tv1/image/startv.png",Star TV
@@ -161,6 +162,7 @@ https://one.b2a7fa109ef84a6f.click/live/seurosport1/playlist.m3u8
 https://one.b2a7fa109ef84a6f.click/live/seurosport2/playlist.m3u8
 #EXTINF:-1 tvg-id="Aspor" tvg-name="Aspor" tvg-group="Spor" tvg-logo="../turk-tv1/image/aspor.png",Aspor
 https://one.b2a7fa109ef84a6f.click/live/saspor/playlist.m3u8
+
 
 
 

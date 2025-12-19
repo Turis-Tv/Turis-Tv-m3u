@@ -1,11 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="|TR|🇹🇷 MÜZİK",TRT MÜZİK 🎧
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gdbyhx2/spotify.png",SPOTIFY TURKEY • TRLIST 👤
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gdbyhx2/spotify.png",SPOTIFY TURKEY • 2024 🎧
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="|TR|🇹🇷 MÜZİK",TRT MÜZİK 🎧👤
+
+
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/spb24.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png",KRAL - KRAL POP 🎧
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
@@ -73,6 +71,7 @@ https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TİVİ TURK 🎧
 https://stream.tiviturk.de/live/tiviturk.m3u8
+
 
 
 

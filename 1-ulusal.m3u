@@ -6,75 +6,47 @@
 http://12204.vod.adultiptv.net/ph58657d939d860/play.m3u8
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TRT 1 SD
 http://116.202.238.88/TRT1_TR/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TRT 1 HD
-https://tgn.bozztv.com/dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷 ATV TR
-https://tgn.bozztv.com/trn03/gt-atv-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷 ATV Avrupa
-https://tgn.bozztv.com/dvrfl05/gin-atvavrupa/tracks-v1a1/mono.m3u8
+ 
+ 
+ 
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  SHOW TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=5c5vr8y2q331&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3&e=1664766175
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷 Türk Haber
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+ 
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  D MAX
-https://trn03.tulix.tv/gt-dmax/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  NOW TV HD
-https://tgn.bozztv.com/trn03/gt-foxturktv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  NOw TV-2
-http://50.7.144.122:1935/livetv/foxtv.stream/sec-f5-v1-a1.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TV8 HD
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷 TV8.5
-http://50.7.144.122:1935/livetv/tv8-5.stream/sec-f5-v1-a1.m3u8
+ 
+ 
+ 
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  360 TV HD
-https://tgn.bozztv.com/dvrfl05/gin-sky360/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  Star TV
-http://dogus-live.daioncdn.net/startv/startv_360p.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  EURO STAR
-https://tgn.bozztv.com/trn03/gt-eurostar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  NTV
-https://tgn.bozztv.com/dvrfl05/gin-ntvtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  BEYAZ TV HD
-https://tgn.bozztv.com/dvrfl05/gin-beyaztv/tracks-v1a1/mono.m3u8
+ 
+ 
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  24 TV HD
 https://turkmedya-live.ercdn.net/tv24/tv24_360p.m3u8
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TEVE 2
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  DİYANET TV HD
-https://trn03.tulix.tv/gt-trtdiyanet/index.m3u8
+ 
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  AKIT TV HD
 http://akittv-live.ercdn.net/akittv/akittv_360p.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TİVİ TÜRK
-https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TV4 FHD
-https://trn03.tulix.tv/gt-tv4/index.m3u8
+ 
+ 
 
 
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  HABER 61 TV
 https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  FLASH HABER
-http://50.7.144.122:1935/livetv/flashtv.stream/sec-f5-v1-a1.m3u8
+ 
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master_360.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  HABERTURK TV
-https://tgn.bozztv.com/dvrfl05/gin-haberturk/tracks-v1a1/mono.m3u8
+ 
 
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TGRT EU
-https://tgn.bozztv.com/dvrfl05/gin-tgrteu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TGRT HABER
-https://tgn.bozztv.com/dvrfl05/gin-tgrthaber/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  HABER GLOBAL
-https://trn03.tulix.tv/gt-haberglobal/index.m3u8
+ 
+ 
+ 
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TRT AVAZ
-https://tv-trtavaz.medya.trt.com.tr/master_360.m3u8
+ 
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TRT-TURK
 https://tv-trtturk.medya.trt.com.tr/master_360.m3u8
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TRT ARABI
@@ -83,8 +55,7 @@ https://tv-trtarabi.medya.trt.com.tr/master_360.m3u8
 https://tv-trtworld.medya.trt.com.tr/master_360.m3u8
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TRT okul
 https://tv-e-okul04.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  BENGÜTÜRK TV [HD]
-https://trn03.tulix.tv/gt-benguturk/index.m3u8
+ 
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  DOST HD TV
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TR24 TV [HD]
@@ -101,23 +72,19 @@ http://media.finest.tv/hls/live.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_360.m3u8
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  FORTUNA TÜRK TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TLC
-https://dogus-live.daioncdn.net/tlc/tlc_360p.m3u8
+ 
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  MECLİS TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TV100
-https://trn03.tulix.tv/gt-tv100/index.m3u8
+ 
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  ULUSAL KANAL
-http://50.7.144.122:1935/livetv/ulusalkanal.stream/sec-f5-v1-a1.m3u8
+ 
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  AKİT TV
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  BLOOMBERG
-https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+ 
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  ViYANA TV HD
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  ÇAY TV
@@ -126,8 +93,7 @@ https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TVDEN
 http://canli.tvden.com.tr/hls/live.m3u8
-#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TARIM TV
-https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-360p.m3u8
+ 
 
 
 #EXTINF:-1 group-title="⚽ IDMAN kanalları",⚽ GsTV
@@ -416,3 +382,4 @@ https://yayin30.haber100.com/live/diyartv/chunklist_w1527287330.m3u8
 http://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 group-title="Dini kanallari",DOST HD (Turk)
 https://dost.stream.emsal.im/tv/live.m3u8
+

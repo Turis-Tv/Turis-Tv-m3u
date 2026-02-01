@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo=" " group-title="Tatlıses Tv,Tatlıses Tv
+https://ovhv47.twincdn.com/videos/5/5830/5830_720p.mp4
+
 #EXTINF:-1 tvg-logo=" " group-title="Tatlıses Tv,Tatlıses Tv
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:1 tvg-id="TRTMuzik.tr" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",TRT Müzik
@@ -232,4 +237,5 @@ https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f50d76a9-885f-4659-8dae-ea125469d25a.png" group-title="Müzik",Müzik TV
 http://stream.tvcdn.net/muzik/muzik-tv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/972fe810-96d7-4cad-8918-fe0c28a45e7d.png" group-title="Müzik",Chill TV
+
 http://stream.tvcdn.net/muzik/chill-tv.m3u8
